@@ -1,4 +1,4 @@
-# registrar_estudiantes
+# Registrar_Estudiantes
 Registrar estudiantes en una base de datos.
 
 # API de Registro de Estudiantes con Flask
